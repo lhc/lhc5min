@@ -14,6 +14,13 @@ Esta branch representa o que está atualmente acessivel no link [do material](ht
 
 Para atualizar ela em relação a ultima versão do material, fazer:
 
-> $ git merge --no-ff master
+> $ git merge -s ours --no-ff master
+
+Isso atualizará apenas o que não der conflito.
+
+## IMPORTANTE
+
+Não editar o material da apresentação nesta branch!
+Isso causará conflitos, que serão sobrescritos pela opção `-s ours`
 
 
