@@ -1,5 +1,23 @@
-Slides para uma apresentação do LHC em 5 min.
+# LHC em 5 minutos.
 
-Deve ser utilizada por todos que queiram apresentar o LHC em algum evento interno ou externo.
+ ----
+ ## Sobre o projeto
 
-Pode ser modificado de acordo com o público e o local da apresentação.
+ Este projeto visa ser uma apresentação sobre o Laboratório Hacker de Campinas, o LHC.
+
+ Este material pode ser usado em apresentações, aulas, etc, sempre que se quizer ter uma breve explicação sobre o que é o LHC.
+
+ ----
+ ## Contribuindo
+
+ Como o LHC é um espaço colaborativo, sua colaboração é bem vinda, e incentivada!
+
+ Para adicionar informacoes a este material, é simples:
+
+ 1. Faça um Fork,
+ 2. Adicione as informaçoes;
+ 3. Faça um pull request;
+ 4. Apareça no LHC pra comemorar-mos! ( Opcional )
+
+ O LHC Agradece!
+
